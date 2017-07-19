@@ -33,7 +33,7 @@ public class ExampleServer {
 }
 ```
 And this is your client program:
-```
+```Java
 package server.example;
 
 import java.io.IOException;
